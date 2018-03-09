@@ -1,0 +1,63 @@
+<resources>
+    <!-- Global Strings -->
+    <string name="app_name">WorldCupWallBoard</string>
+
+    <!-- Group Select Activity-->
+    <string name="group_a_button">Group A</string>
+    <string name="group_b_button">Group B</string>
+    <string name="group_c_button">Group C</string>
+    <string name="group_d_button">Group D</string>
+    <string name="group_e_button">Group E</string>
+    <string name="group_f_button">Group F</string>
+    <string name="group_g_button">Group G</string>
+    <string name="group_h_button">Group H</string>
+
+    <!-- Group Activity -->
+    <!-- Header row -->
+    <string name="header_row">Header</string>
+    <string name="header_team_name">Team</string>
+    <string name="header_games_played">G</string>
+    <string name="header_games_won">W</string>
+    <string name="header_games_lost">L</string>
+    <string name="header_goals_for">GF</string>
+    <string name="header_goals_against">GA</string>
+    <string name="header_goal_difference">GD</string>
+    <string name="header_points">P</string>
+    <!-- 1st Place Row -->
+    <string name="first_place_row">1st</string>
+    <string name="first_games_played"></string>
+    <string name="first_games_won"></string>
+    <string name="first_games_lost"></string>
+    <string name="first_goals_for"></string>
+    <string name="first_goals_against"></string>
+    <string name="first_goal_difference"></string>
+    <string name="first_points"></string>
+    <!-- 2nd Place Row -->
+    <string name="second_place_row"></string>
+    <string name="second_games_played"></string>
+    <string name="second_games_won"></string>
+    <string name="second_games_lost"></string>
+    <string name="second_goals_for"></string>
+    <string name="second_goals_against"></string>
+    <string name="second_goal_difference"></string>
+    <string name="second_points"></string>
+    <!-- 3rd Place Row -->
+    <string name="third_place_row">3rd</string>
+    <string name="third_games_played"></string>
+    <string name="third_games_won"></string>
+    <string name="third_games_lost"></string>
+    <string name="third_goals_for"></string>
+    <string name="third_goals_against"></string>
+    <string name="third_goal_difference"></string>
+    <string name="third_points"></string>
+    <!-- 4th Place Row -->
+    <string name="fourth_place_row">4th</string>
+    <string name="fourth_games_played"></string>
+    <string name="fourth_games_won"></string>
+    <string name="fourth_games_lost"></string>
+    <string name="fourth_goals_for"></string>
+    <string name="fourth_goals_against"></string>
+    <string name="fourth_goal_difference"></string>
+    <string name="fourth_points"></string>
+
+</resources>
